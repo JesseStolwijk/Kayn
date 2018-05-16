@@ -1,0 +1,22 @@
+{
+    "name": "vscode-theme",
+    "displayName": "vscode-theme",
+    "description": "My Vscode theme",
+    "version": "0.0.1",
+    "publisher": "stolwijk",
+    "engines": {
+        "vscode": "^1.23.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Kayn",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Kayn-color-theme.json"
+            }
+        ]
+    }
+}
