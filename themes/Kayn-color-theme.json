@@ -16,14 +16,14 @@
       "name": "String",
       "scope": "string",
       "settings": {
-        "foreground": "#AE81FF"
+        "foreground": "#ffe281"
       }
     },
     {
       "name": "Number",
       "scope": "constant.numeric",
       "settings": {
-        "foreground": "#AE81FF"
+        "foreground": "#ffe281"
       }
     },
     {
@@ -31,14 +31,14 @@
       "scope": "constant.language",
       "settings": {
         "fontStyle": "",
-        "foreground": "#AE81FF"
+        "foreground": "#ffe281"
       }
     },
     {
       "name": "User-defined constant",
       "scope": ["constant.character", "constant.other"],
       "settings": {
-        "foreground": "#AE81FF"
+        "foreground": "#ffe281"
       }
     },
     {
@@ -52,7 +52,7 @@
       "name": "Keyword",
       "scope": "keyword",
       "settings": {
-        "foreground": "#ff5694"
+        "foreground": "#e650d2"
       }
     },
     {
@@ -60,14 +60,14 @@
       "scope": "storage",
       "settings": {
         "fontStyle": "",
-        "foreground": "#ff5694"
+        "foreground": "#e650d2"
       }
     },
     {
       "name": "Storage type",
       "scope": "storage.type",
       "settings": {
-        "fontStyle": "italic",
+        "fontStyle": "",
         "foreground": "#66D9EF"
       }
     },
@@ -99,7 +99,7 @@
       "name": "Function argument",
       "scope": "variable.parameter",
       "settings": {
-        "fontStyle": "",
+        "fontStyle": "italic",
         "foreground": "#FD971F"
       }
     },
@@ -108,7 +108,7 @@
       "scope": "entity.name.tag",
       "settings": {
         "fontStyle": "",
-        "foreground": "#ff5694"
+        "foreground": "#e650d2"
       }
     },
     {
